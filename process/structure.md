@@ -24,13 +24,7 @@ Core Team is a keystone to drive our school. It helps us to start new initiative
 Be a key member in one of other teams and wait for invitation to join.
 
 ### Drivers
-* Oleg Zheleznov
-* Sviatlana Zakharenka
-* Maryia Zharykava
-* Danila Varatyntsev
-* Aliaksei Yermachonak
-* Yana Bahdanovich
-* Mikalai Karamach
+* TBD
 
 ## Content Stream
 Content stream is a set of teams which helps us to keep our content up-to-date, create new study materials and support students. 
@@ -57,9 +51,9 @@ In general, please reach out to corresponding stage coordinator.
 Reach out to someone from core team if you'd like to become a stage coordinator.
 
 ### Drivers
-* Stage 0 - Mikalai Karamach
-* Stage 1 - Vacant
-* Stage 2 - Vacant
+* Stage 0 - Stanislau Sukora
+* Stage 1 - Viktoriya Ponkratina
+* Stage 2 - Dziyana Bahdanava
 * Stage 3 - Yana Bahdanovich
 * Stage 4 - Maryia Zharykava
 
